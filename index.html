@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ahorcado</title>
+</head>
+
+<body>
+  <div class="contenedor">
+    <h1>💻 Ahorcado Dev 💀</h1>
+
+    <p class="pista" id="pista">Pista: cargando...</p>
+
+    <div class="palabra" id="palabra"></div>
+
+    <form id="form-letra">
+      <input type="text" id="input-letra" maxlength="1" placeholder="Escribí una letra" autocomplete="off" required>
+      <button type="submit">Adivinar</button>
+    </form>
+
+    <p class="letras-usadas">Letras usadas: <span id="letras-usadas"></span></p>
+    <p id="mensaje" class="mensaje"></p>
+
+    <canvas id="canvas" width="200" height="250"></canvas>
+
+    <button id="reiniciar">🔄 Reiniciar</button>
+  </div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+
+</html>

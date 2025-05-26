@@ -1,0 +1,408 @@
+{
+    "record": [
+        {
+            "palabra": "ALGORITMO",
+            "pista": "Conjunto de pasos lógicos"
+        },
+        {
+            "palabra": "VARIABLE",
+            "pista": "Espacio para guardar datos"
+        },
+        {
+            "palabra": "FUNCION",
+            "pista": "Bloque de código reutilizable"
+        },
+        {
+            "palabra": "BUCLE",
+            "pista": "Repite instrucciones"
+        },
+        {
+            "palabra": "OBJETO",
+            "pista": "Entidad con propiedades y métodos"
+        },
+        {
+            "palabra": "COMPILADOR",
+            "pista": "Traduce código a lenguaje máquina"
+        },
+        {
+            "palabra": "DEBUG",
+            "pista": "Proceso de depuración"
+        },
+        {
+            "palabra": "IDE",
+            "pista": "Entorno de desarrollo integrado"
+        },
+        {
+            "palabra": "GIT",
+            "pista": "Control de versiones"
+        },
+        {
+            "palabra": "API",
+            "pista": "Interfaz de programación de aplicaciones"
+        },
+        {
+            "palabra": "JSON",
+            "pista": "Formato de datos"
+        },
+        {
+            "palabra": "CSS",
+            "pista": "Hoja de estilo en cascada"
+        },
+        {
+            "palabra": "HTML",
+            "pista": "Lenguaje de marcado de hipertexto"
+        },
+        {
+            "palabra": "JAVASCRIPT",
+            "pista": "Lenguaje de programación de alto nivel, que se utiliza popularmente en el desarrollo web"
+        },
+        {
+            "palabra": "SQL",
+            "pista": "Lenguaje de base de datos relacional"
+        },
+        {
+            "palabra": "GITHUB",
+            "pista": "Plataforma de control de versiones en la nube"
+        },
+        {
+            "palabra": "REACT",
+            "pista": "Librería de JavaScript para construir interfaces de usuario reactivas"
+        },
+        {
+            "palabra": "NODEJS",
+            "pista": "Entorno de ejecución de JavaScript en el lado del servidor"
+        },
+        {
+            "palabra": "PYTHON",
+            "pista": "Lenguaje de programación interpretado y de alto nivel"
+        },
+        {
+            "palabra": "JAVA",
+            "pista": "Lenguaje de programación orientado a objetos"
+        },
+        {
+            "palabra": "ANDROID",
+            "pista": "Sistema operativo para dispositivos móviles basado en Linux"
+        },
+        {
+            "palabra": "IOS",
+            "pista": "Sistema operativo para dispositivos móviles basado en macOS"
+        },
+        {
+            "palabra": "HARDWARE",
+            "pista": "Parte física de un dispositivo informático"
+        },
+        {
+            "palabra": "SOFTWARE",
+            "pista": "Parte lógica de un dispositivo informático"
+        },
+        {
+            "palabra": "HARDCODE",
+            "pista": "Código fijo o estático"
+        },
+        {
+            "palabra": "BUG",
+            "pista": "Error en el código"
+        },
+        {
+            "palabra": "BACKEND",
+            "pista": "Lógica del lado del servidor"
+        },
+        {
+            "palabra": "FRONTEND",
+            "pista": "Interfaz con la que interactúa el usuario"
+        },
+        {
+            "palabra": "FULLSTACK",
+            "pista": "Desarrollador que maneja frontend y backend"
+        },
+        {
+            "palabra": "FRAMEWORK",
+            "pista": "Estructura base para desarrollar software"
+        },
+        {
+            "palabra": "LIBRERIA",
+            "pista": "Conjunto de funciones reutilizables"
+        },
+        {
+            "palabra": "COMPONENTE",
+            "pista": "Elemento independiente reutilizable"
+        },
+        {
+            "palabra": "EVENTO",
+            "pista": "Acción que ocurre en la interfaz"
+        },
+        {
+            "palabra": "ASYNC",
+            "pista": "Operación que no bloquea el flujo principal"
+        },
+        {
+            "palabra": "PROMESA",
+            "pista": "Manejo asincrónico en JavaScript"
+        },
+        {
+            "palabra": "CALLBACK",
+            "pista": "Función pasada como argumento"
+        },
+        {
+            "palabra": "RUTEO",
+            "pista": "Gestión de URLs en una SPA"
+        },
+        {
+            "palabra": "VSCODE",
+            "pista": "Editor de código muy popular"
+        },
+        {
+            "palabra": "EXTENSION",
+            "pista": "Herramienta extra que se añade a un IDE"
+        },
+        {
+            "palabra": "TIPADO",
+            "pista": "Clasificación de datos por tipo"
+        },
+        {
+            "palabra": "LOGICA",
+            "pista": "Parte del código que resuelve el problema"
+        },
+        {
+            "palabra": "FUNCIONAL",
+            "pista": "Paradigma basado en funciones puras"
+        },
+        {
+            "palabra": "TOKEN",
+            "pista": "Cadena que representa la autenticación"
+        },
+        {
+            "palabra": "SESSION",
+            "pista": "Información temporal del usuario"
+        },
+        {
+            "palabra": "COOKIE",
+            "pista": "Dato guardado en el navegador"
+        },
+        {
+            "palabra": "FETCH",
+            "pista": "Método para obtener datos en JS"
+        },
+        {
+            "palabra": "ERROR",
+            "pista": "Algo no salió como se esperaba"
+        },
+        {
+            "palabra": "CONSOLE",
+            "pista": "Herramienta para ver errores o logs"
+        },
+        {
+            "palabra": "DEPLOY",
+            "pista": "Publicar una app en internet"
+        },
+        {
+            "palabra": "BIT",
+            "pista": "Unidad mínima de información digital"
+        },
+        {
+            "palabra": "BASH",
+            "pista": "Lenguaje de consola en sistemas Unix"
+        },
+        {
+            "palabra": "TERMINAL",
+            "pista": "Interfaz de línea de comandos"
+        },
+        {
+            "palabra": "SHELL",
+            "pista": "Interprete de comandos"
+        },
+        {
+            "palabra": "ALGORITMO",
+            "pista": "Secuencia de instrucciones"
+        },
+        {
+            "palabra": "PUERTO",
+            "pista": "Punto de comunicación en red"
+        },
+        {
+            "palabra": "DOMINIO",
+            "pista": "Nombre de una página web"
+        },
+        {
+            "palabra": "SERVIDOR",
+            "pista": "Computadora que brinda servicios"
+        },
+        {
+            "palabra": "CLIENTE",
+            "pista": "Solicita recursos o servicios"
+        },
+        {
+            "palabra": "TOKEN",
+            "pista": "Código de autenticación"
+        },
+        {
+            "palabra": "AUTH",
+            "pista": "Proceso de autenticación"
+        },
+        {
+            "palabra": "LOGIN",
+            "pista": "Ingreso de usuario"
+        },
+        {
+            "palabra": "REGISTERO",
+            "pista": "Proceso de crear una cuenta"
+        },
+        {
+            "palabra": "HOOK",
+            "pista": "Función especial en React"
+        },
+        {
+            "palabra": "STATE",
+            "pista": "Variable que controla la UI"
+        },
+        {
+            "palabra": "PROPS",
+            "pista": "Datos que se pasan a componentes"
+        },
+        {
+            "palabra": "ARRAY",
+            "pista": "Colección de datos ordenados"
+        },
+        {
+            "palabra": "OBJETO",
+            "pista": "Estructura con propiedades y métodos"
+        },
+        {
+            "palabra": "BOOLEAN",
+            "pista": "Tipo de dato verdadero o falso"
+        },
+        {
+            "palabra": "NULO",
+            "pista": "Valor que representa ausencia"
+        },
+        {
+            "palabra": "UNDEFINED",
+            "pista": "Valor no asignado"
+        },
+        {
+            "palabra": "TIPO",
+            "pista": "Define la naturaleza de un dato"
+        },
+        {
+            "palabra": "INTERFAZ",
+            "pista": "Punto de interacción con el usuario"
+        },
+        {
+            "palabra": "RECURSION",
+            "pista": "Función que se llama a sí misma"
+        },
+        {
+            "palabra": "COMMIT",
+            "pista": "Guardar cambios en Git"
+        },
+        {
+            "palabra": "BRANCH",
+            "pista": "Rama en un repositorio"
+        },
+        {
+            "palabra": "MERGE",
+            "pista": "Unir ramas en Git"
+        },
+        {
+            "palabra": "PULL",
+            "pista": "Obtener cambios de un repositorio"
+        },
+        {
+            "palabra": "PUSH",
+            "pista": "Enviar cambios a un repositorio"
+        },
+        {
+            "palabra": "ISSUE",
+            "pista": "Reporte de problema o tarea"
+        },
+        {
+            "palabra": "TICKET",
+            "pista": "Tarea en un sistema de seguimiento"
+        },
+        {
+            "palabra": "KANBAN",
+            "pista": "Método visual de gestión de tareas"
+        },
+        {
+            "palabra": "SCRUM",
+            "pista": "Marco ágil de trabajo"
+        },
+        {
+            "palabra": "SPRINT",
+            "pista": "Periodo de desarrollo en Scrum"
+        },
+        {
+            "palabra": "STORY",
+            "pista": "Funcionalidad escrita desde el punto de vista del usuario"
+        },
+        {
+            "palabra": "DATABASE",
+            "pista": "Almacén estructurado de datos"
+        },
+        {
+            "palabra": "INDEX",
+            "pista": "Mejora la búsqueda en bases de datos"
+        },
+        {
+            "palabra": "QUERY",
+            "pista": "Consulta a una base de datos"
+        },
+        {
+            "palabra": "CRUD",
+            "pista": "Crear, leer, actualizar y borrar"
+        },
+        {
+            "palabra": "FIREBASE",
+            "pista": "Plataforma backend de Google"
+        },
+        {
+            "palabra": "MONGODB",
+            "pista": "Base de datos NoSQL"
+        },
+        {
+            "palabra": "MYSQL",
+            "pista": "Base de datos relacional"
+        },
+        {
+            "palabra": "POSTGRES",
+            "pista": "Sistema de base de datos avanzado"
+        },
+        {
+            "palabra": "DEPLOY",
+            "pista": "Publicación de una app"
+        },
+        {
+            "palabra": "BUILD",
+            "pista": "Compilación del código para producción"
+        },
+        {
+            "palabra": "LINTER",
+            "pista": "Herramienta que revisa el estilo del código"
+        },
+        {
+            "palabra": "UNITTEST",
+            "pista": "Prueba individual de componente"
+        },
+        {
+            "palabra": "AWS",
+            "pista": "Plataforma de desarrollo en la nube"
+        },
+        {
+            "palabra": "DOCKER",
+            "pista": "Contenedor de software"
+        },
+        {
+            "palabra": "KUBERNETES",
+            "pista": "Orquestación de contenedores"
+        },
+        {
+            "palabra": "API",
+            "pista": "Interfaz de programación de aplicaciones"
+        },
+        {
+            "palabra": "REST",
+            "pista": "Estilo de desarrollo de APIs"
+        }
+    ]
+}

@@ -20,7 +20,7 @@ const botonReiniciar = document.getElementById('reiniciar');
 // carga palabra aleatoria desde la "API"
 async function obtenerPalabraDeAPI() {
   try {
-    const res = await fetch('https://api.jsonbin.io/v3/b/682e1f2a8960c979a59eb0a3'); // Api casera: (https://jsonbin.io/)
+    const res = await fetch('./palabras.json'); // Api casera: (https://jsonbin.io/)
     const data = await res.json();
     const palabras = data.record;
     const aleatoria = palabras[Math.floor(Math.random() * palabras.length)];
